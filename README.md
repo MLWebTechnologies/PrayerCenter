@@ -21,3 +21,5 @@ Optional PrayerCenter modules include:
 * Subscribe
 * Menu
 * Latest Requests
+
+![GitHub Logo](/images/logo.png)
