@@ -22,4 +22,4 @@ Optional PrayerCenter modules include:
 * Menu
 * Latest Requests
 
-![GitHub Logo](/images/logo.png)
+![Turn Group](/images/redbigcolor.png)
