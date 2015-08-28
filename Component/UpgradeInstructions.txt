@@ -1,0 +1,65 @@
+PrayerCenter 3.x
+
+If this is an upgrade from an earlier version of PrayerCenter:
+
+1. Backup the PrayerCenter, PrayerCenter_Subscribe, PrayerCenter_Devotions, and
+	PrayerCenter_Links DB tables
+
+2. Edit the existing prayercenter.xml file on your site.
+	
+	a) Remove the following lines between the <uninstall> and </uninstall> tags:
+
+		  <queries>
+ 		  <query>DELETE FROM #__prayercenter</query> 
+		  <query>DROP TABLE #__prayercenter</query> 
+		  <query>DELETE FROM #__prayercenter_subscribe</query> 
+		  <query>DROP TABLE #__prayercenter_subscribe</query> 
+		  <query>DELETE FROM #__prayercenter_devotions </query>
+		  <query>DROP TABLE #__prayercenter_devotions </query>
+		  <query>DELETE FROM #__prayercenter_links </query>
+		  <query>DROP TABLE #__prayercenter_links </query>
+		  </queries>
+
+    if this is a reinstall of the same version or an upgrade to a version higher than 1.5.6,
+    Remove the following lines between the <uninstall> and </uninstall> tags:
+    
+    	<sql>
+    		<file driver="mysql" charset="utf8">uninstall.mysql.utf8.sql</file>
+    	</sql>
+    
+
+	b) Save the changes to the file
+
+
+3. Depending on the version, save the configuration settings:
+	
+	a) Save the pc_config.php file
+
+		* Note:  Do not use this file in place of the new config file but
+				use it as a reference.
+
+	OR
+
+
+	b) Manually copy the settings to a text file for later reference.
+
+
+4. Save the PrayerCenter CSS files if you've customized them beyond default.
+
+
+5. If using the Joomla Extension Manager: Update option, click Find Updates.  Select the available PrayerCenter upgrade and click Update.  Jump to step #8.
+
+
+6. If upgrading manually, uninstall the PrayerCenter component using the normal Joomla component uninstall procedures and then install the PrayerCenter 2.5.x component using the normal Joomla component install procedures.
+
+
+7. If upgrading from a version prior to 1.4x, to complete the installation, open the PrayerCenter Admin 	configuration console.
+
+	a) In the Upgrade wizard, click the Upgrade button.
+
+
+8. Reconfigure PrayerCenter with any custom settings saved in step #3.  When upgrading to version 2.5, you will need to re-add the "Moderator List" and "PMS Distribution list" parameter settings as they will not be retained.  Changes have been made in the way these settings are used for greater accuracy and security.
+
+
+
+

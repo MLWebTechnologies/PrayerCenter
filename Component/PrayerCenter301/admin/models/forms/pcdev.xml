@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fieldset addfieldpath="/administrator/components/com_prayercenter/models/fields" >
+		<field name="id" type="text" default="0" label="JGLOBAL_FIELD_ID_LABEL"
+			readonly="true" class="readonly"
+			description="JGLOBAL_FIELD_ID_DESC"/>
+		<field name="name" type="text" class="inputbox"
+			size="60" label="Name"
+			description="" required="true" />
+		<field name="published" type="list"
+			label="Publish State" description=""
+			class="inputbox" default="1" >
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+		</field>
+		<field name="catid"
+      type="category"
+      extension="com_prayercenter"
+			label="Category" description=""
+			class="inputbox" default="" />
+		<field name="feed" type="text" class="inputbox"
+			size="60" label="Feed"
+			description="" required="true" />
+		<field name="target" type="LinkTarget"
+			label="Target" description=""
+			class="inputbox" default="" />
+		<field name="ordering" type="LinkOrdering" class="inputbox"
+			label="JFIELD_ORDERING_LABEL"
+			description="JFIELD_ORDERING_DESC" />
+	</fieldset>
+</form>

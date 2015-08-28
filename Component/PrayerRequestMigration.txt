@@ -1,0 +1,8 @@
+Migrating from the Prayer Requests component
+
+If the Prayer Requests component is installed, you will see the Upgrade wizard
+in the PrayerCenter Admin Cpanel console.  To "copy" existing prayer requests from the
+Prayer Requests DB table to the PrayerCenter DB table, click the Apply button.
+
+You should now see all prayer requests within the PrayerCenter View Prayer Listing.
+
