@@ -1,0 +1,14 @@
+Integrating JComments component for use with PrayerCenter
+
+
+1) Install PrayerCenter v.1.6.0 (or higher) component and configure.
+2) Install JComments v2.2.0.2 (or higher) component and configure.
+3) Copy the "administrator/components/com_prayercenter/plugins/comments/jcomments/com_prayercenter.plugin.php" file
+    to the "components/com_jcomments/plugins/" directory on your site.
+4) Select "Yes - JComments Component" for the "Enable User Comments Component Integration" option under the 
+    "3rd Party Component/Plugin/Service Integration" section of the PrayerCenter configuration.
+5) To see a count of comments per prayer request on the Prayer Listing, select "Yes" for the "Show Number of Comments"
+    option under the "Prayer Listing Page" section of the PrayerCenter configuration.
+    
+    
+** All management of comments is done via the JComments administrative console.
