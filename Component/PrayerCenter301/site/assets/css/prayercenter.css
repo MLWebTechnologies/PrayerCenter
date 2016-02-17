@@ -1,431 +1,0 @@
-/* PrayerCenter image definition */   
-.pc-img {        
-  width:130px;
-  padding: 0 14px 0 24px;        
-  border: none;
-  }        
-/* Pagination */
-span.pcpagelinks,
-#limit,
-#counter {
-  font-weight: bold;      
-  padding:0px;
-  margin:0px;
-}
-#counter2 {
-  float: right;
-}
-span.pcpagelinks li.pagination-start,
-span.pcpagelinks li.pagination-start span,
-span.pcpagelinks li.pagination-next,
-span.pcpagelinks li.pagination-end,
-span.pcpagelinks li.pagination-prev {
-  padding:0px;
-  margin:0px;
-}
-span.pcpagelinks ul,
-span.pcpagelinks ul li {
-  list-style-type: none;
-	display:inline-block;
-	padding:0px;
-	margin:0px;
-	border:solid 0px #ccc;
-	overflow:hidden;
-  font-weight: bold;      
-}
-span.pagpcpagelinkselinks ul li a
-{
-	border:solid 1px #ccc; 
-	display:inline; 
-	padding-right:2px; 
-	text-decoration:none;
-  font-weight: bold;      
-}
-/** Print box **/      
-div.pcdwprint select {      
-  margin: 0 0 0 5px;      
-  border: 1px solid #666666;      
-  background: #ffffff url(../../../../images/M_images/printButton.png) no-repeat 3px center;      
-  font-weight: normal;      
-  padding: 0 0 0 20px;      
-}      
-/* menu class definition */      
-#pc-menu {        
-  float:left;         
-  width:160px;        
-  margin:0 15px 15px 0;        
-  background: none repeat scroll 0%;        
-  }        
-/* pc-menu module class definition */       
-ul.pc-modmenu {
-  padding-left:20px;
-  margin:10px 0px;
-}
-li.pc-modmenu {
-  padding-left: 0px;
-  margin-left: 0px;
-  float: left;
-}
-/* alternate menu class definition */      
-a.mainlevelalt:link, a.mainlevelalt:visited {        
-}      
-/* article separator definition */      
-.article_separator2 {        
-  background: transparent url(../fe-images/separator.gif) no-repeat center;        
-  display: block;        
-  height: 25px;        
-  width:  100%;     
-  }        
-/* return message format definition */      
-div.return_msg {        
-  text-align:center;         
-  color:red;        
-  font-style:italic;        
-  font-weight:bold;        
-  text-decoration:blink;        
-  }        
-/* fieldset tag definitions */      
-fieldset.pcmod {         
-  border: 1px solid #ccc;        
-  padding: 1.0em 2.5em;        
-  text-align: left;        
-  }        
-fieldset.pcmod td.mod2 {        
-  text-align: left;        
-}        
-fieldset.pcmod li {      
-  list-style-type: none;      
-}      
-fieldset.edit {         
-  width: 450px;        
-  text-align: center;        
-}        
-fieldset.pcmod legend {        
-  border:1px solid #ccc;      
-	color: #333;
-  padding: 0 4px;      
-	font-size: 16px;      
-	font-weight: bold;
-  width:auto;      
-}        
-/** Search box **/      
-div.pcsearch input.pc_search_inputbox {      
-  width: auto;      
-  margin: 0 0 0 5px;      
-  border: 1px solid #666666;      
-  background: #ffffff url(../fe-images/search_icon.gif) no-repeat 3px center;      
-  font-weight: normal;      
-  padding: 2px 5px 2px 20px;      
-}      
-/** Sort box **/      
-div.pcsort {      
-  float:left;
-  padding-left:2px;
-}      
-/** Moderators List / Links / Devotionals pages - Basic & Default Prayer Listing Page **/      
-table.modlist,      
-table.modlink,      
-table.modlistbasic,      
-div.modlistbasic {      
-	width: 100%;      
-	border-spacing: 1px;      
-  height: 25px;       
-}      
-table.modlist td,      
-table.modlist th,      
-table.modlistbasic th,      
-div.modlistbasic {      
-  padding: 4px;     
-}     
-table.modlistbasic,     
-div.modlistbasic {      
-  border-left: 1px solid #f3f3f3;     
-  border-right:1px solid #f3f3f3;     
-}     
-table.modlistbasic td,     
-div.modlistbasic {      
-  padding: 10px 4px 0px 4px;     
-}      
-table.modlist tfoot,     
-table.modlink tfoot,     
-table.modlistbasic tfoot,     
-table.modlist thead,      
-table.modlink thead,      
-table.modlistbasic thead {      
-	border: 1px solid #999;      
-	text-align: center;      
-}      
-table.modlist tbody,       
-table.modlistbasic tbody {       
-	border: 1px solid #999;      
-}      
-table.modlist tbody tr {       
-  text-align: left;       
-}      
-table.modlist tbody tr.row1,       
-table.modlink tbody tr.row1,       
-table.modlistbasic tbody tr.row1,
-div.row1 {       
-  background-color: #e9e9e9;
-  border:1px solid #ccc;       
-}      
-div.row0 {       
-  border:1px solid #ccc;       
-}      
-table.modlist tbody tr.titlerow,       
-table.modlist tbody tr.profilerow {       
-  text-align:left;     
-  border-bottom: 1px solid #999;     
-}      
-table.modlist tbody tr td.date {       
-  border-top: 1px solid #e7e7e7;
-  font-size: x-small;
-}      
-span.date {       
-  font-size: x-small;
-}      
-div.modlink div.mod-right {        
-  border-left: 1px solid #999;        
-  padding-left: 20px;     
-  float:right;
-}        
-div.modlink div.mod-left {        
-  padding-right: 20px;     
-  float:left;
-}        
-div.modlink div.mod-right,        
-div.modlink div.mod-left {        
-  text-align: left;        
-  vertical-align: top;        
-  width: 45%;        
-}        
-div.moddevotion dl.mod {      
-  padding: 0px 25px;     
-}      
-div.moddevotion div.devtitledescrip {      
-  padding-left: 5px;     
-  padding-top: 4px;     
-}      
-div.moddevotion img.devimg {     
-  float: right;     
-  width: 80px;     
-  padding-right: 25px;     
-  margin-top: -10px;
-  border: 0;     
-}     
-div.modlink dd.mod {      
-  margin-left:15px;     
-}      
-div.modlink hr.modlink {      
-  color: #fff;      
-}      
-table.modlist .reqcontent {     
-  padding: 6px 4px 0px 4px;     
-}     
-div.contentbasic {     
-  padding: 30px 10px 30px 10px;     
-}     
-div.viewedcommentbasic {     
-  border-top: 1px solid #ddd;     
-  font-size:x-small;
-  padding-top:2px;
-}     
-div.titlebasic {     
-  border-bottom: 1px solid #ddd;
-  padding: 2px;     
-}     
-table.modlist .profileimage {     
-  width: 40px;     
-  height: 45px;     
-  float: left;     
-  vertical-align: top;      
-  margin: 0px 5px 0px 0px;     
-}      
-table.modlist .profileflag {     
-  width: 15px;     
-  vertical-align: middle;      
-  margin: 0px 0px 5px 0px;     
-}      
-/** Edit/View Request pages **/      
-div.requestbox {     
-  height: 120px;     
-  vertical-align: top;     
-  border: 1px solid #ccc;     
-  padding: 10px;     
-}      
-div.reqboxgtrans {     
-  width: 100%;     
-  font-size: 1px;     
-  border-bottom: 1px solid #ccc;     
-  border-left: 1px solid #ccc;     
-  border-right: 1px solid #ccc;     
-  padding: 10px;     
-}      
-div.profilespacer {     
-  width: 4%;      
-}      
-div.profilebox {      
-  height: auto;
-  border: 1px solid #ccc;     
-	text-align: left;      
-	vertical-align: top;      
-	width: 25%;      
-  padding: 5px;     
-  float:right;
-  font-size: x-small;
-  white-space:nowrap;
-}     
-.profileimage {     
-  width: 35px;     
-  height: 40px;     
-  float: left;     
-  vertical-align: top;      
-  margin-left: 0px;       
-  margin-top: 0px;      
-  margin-bottom: 0px;      
-  margin-right: 5px;     
-}      
-.profileflag {     
-  width: 15px;     
-  vertical-align: middle;      
-  margin-left: 0px;       
-  margin-top: 0px;      
-  margin-bottom: 5px;      
-  margin-right: 0px;     
-}      
-.clr-left {
-  clear: left;
-}
-div.edittable {
-  width:100%;
-}      
-div.showreqtable {     
-  width:100%;
-  height:80px;       
-}
-div.showreqtable div.key,      
-div.edittable div.key {      
-	text-align: left;      
-	width: 25%;      
-	font-weight: bold;      
-	border: 1px solid #ccc;      
-  padding-left: 5px;
-  float: left;
-}      
-div.showreqtable div.key2,      
-div.edittable div.key2 {      
-  padding-left: 5px;     
-  padding-right: 5px;     
-	text-align: left;      
-	width: 70%;      
-	border: 1px solid #ccc;      
-}      
-div.key3 {      
-  font-weight: bold;
-  width: 95%;      
-}      
-/*form validation*/      
-.invalid {border-color: #ff0000;}      
-label.invalid {color: #ff0000;}      
-/*Rounded Border Prayer Listing*/     
-.rounded_border {     
-  /* fix IE 6 layout */     
-  position:relative;     
-  /* IE haslayout */     
-  height:1%;      
-  /* obey floats */     
-  overflow:auto;      
-}     
-.top,     
-.bottom,     
-.top b,     
-.bottom b {     
-  display:block;     
-  position:relative;     
-  border-style:solid;     
-  border-width:0;     
-}     
-.rounded_border .reqcontent {     
-	border-style:solid;     
-  border-width:0 1px;     
-}     
-.rounded_border .top,     
-.rounded_border .bottom {     
-  margin:0 5px;     
-  height:4px;     
-}     
-.rounded_border .top {     
-  border-width:1px 0 0;     
-}     
-.rounded_border .bottom {     
-  border-width:0 0 1px;     
-}     
-.rounded_border .top b,     
-.rounded_border .bottom b {     
-  margin:0 -2px;     
-  border-width:0 2px;     
-  height:3px;     
-}     
-.rounded_border .top b {     
-  padding-top:1px;     
-}     
-.rounded_border .bottom b {     
-  padding-bottom:1px;     
-}     
-.rounded_border .top b b,     
-.rounded_border .bottom b b {     
-  margin:0 -3px;     
-  border-width:0 1px;     
-  height:2px;     
-}     
-.rounded_border .top b b b,     
-.rounded_border .bottom b b b {     
-  margin:0 -2px;     
-  height:1px;     
-}     
-.request_border .bottom,     
-.request_border .bottom b,     
-.request_border .reqcontent {     
-  background:#eee;     
-  border-color:#ccc;
-}     
-.request_border .top,     
-.request_border .top b,      
-.request_border .titlerounded,     
-.request_border .titlerounded a {     
-  background-color:#ccc;     
-  border-color: #ccc;     
-}     
-.request_border .titlerounded {     
-  padding: 2px;
-}     
-.request_border h2 {     
-  padding: 0 0 5px;     
-  margin:0 0px;     
-}     
-.request_border .reqcontent {     
-  padding:12px 20px 0;     
-}     
-.request_border .viewedcommentrounded {     
-  border-top: 1px solid #ddd;     
-  border-left: 1px solid #ccc;     
-  font-size:x-small;
-  padding-top:2px;
-}     
-.request_border .daterounded {     
-  border-top: 1px solid #ddd;     
-  border-right: 1px solid #ccc;     
-  font-size:x-small;
-  padding-top:2px;
-}     
-/*CB related*/     
-.cb_online {     
-	padding: 0px 0px 0px 20px;     
-	color: #6eab33;     
-	background: transparent url("../../../com_comprofiler/images/online.gif") no-repeat;     
-}     
-.cb_offline {     
-	padding: 0px 0px 0px 20px;     
-	color: #c72234;     
-	background: transparent url("../../../com_comprofiler/images/offline.gif") no-repeat;     
-}

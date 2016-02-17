@@ -1,26 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<form>
-	<fieldset>
-		<field name="id" type="text" default="0" label="JGLOBAL_FIELD_ID_LABEL"
-			readonly="true" class="readonly"
-			description="JGLOBAL_FIELD_ID_DESC"/>
-		<field name="plan" type="text" class="inputbox"
-			size="40" label="Name"
-			description="" required="true" />
-		<field name="figure" type="text" class="inputbox"
-			size="40" label="Character"
-			description="" required="true" />
-		<field name="descrip" type="text" class="inputbox"
-			size="100" label="Description"
-			description="" required="true" />
-		<field name="reading" type="hidden" class="inputbox"
-			size="40" label="Reading"
-			description="" />
-		<field name="detailid" type="hidden" class="inputbox"
-			size="40" label=""
-			description="" />
-		<field name="id" type="hidden" class="inputbox"
-			size="40" label=""
-			description="" />
-		</fieldset>
-</form>
