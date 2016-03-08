@@ -1,1 +1,53 @@
-Coming Soon!
+1. Copyright and disclaimer
+---------------------------
+This application is opensource software released under the GPL. Please see source code and the LICENSE file.
+
+2. Changelog
+------------
+This is a non-exhaustive changelog for the PrayerCenter component.
+
+Legend:
+* -> Security Fix
+# -> Bug Fix
+$ -> Language fix or change
++ -> Addition
+^ -> Change
+- -> Removed
+! -> Note
+
+-------------------- 3.0.2 Release [8-March-2016] ------------------
+
+^ New release
+# Fixed multiple bugs
+
+-------------------- 3.0.1 Release [23-June-2014] ------------------
+
+# Fixed multiple bugs
+
+-------------------- 3.0.0 Release [10-October-2013] ------------------
+
++ Added Joomla 3.x compatibility.
+
+-------------------- 2.5.2 Release [6-July-2012] ------------------
+
++ Added Joomla Messaging component PMS option
+^ Modified PrayerCenter to use Joomla ACL (Joomla 1.6 or greater)set on Permissions tab in PC parameters.
+# Fixed issues with PDF, weekly/daily print pages
+# Fixed issues with RSS feeds
+# Fixed miscellaneous bugs
+ 
+-------------------- 2.5.1 Release [15-May-2012] ------------------
+
+# Fixed issue with parameters settings with Joomla 2.5x install causing error messages and missing pages.
+# Fixed multiple code bugs.
+
+-------------------- 2.5.0 Release [5-April-2012] ------------------ 
+
++ Added Joomla 2.5x compatibility.
++ Added default Joomla 2.5 CAPTCHA support.
+# Fixed issue with parameters settings with Joomla 1.5x.
+# Fixed Javascript issues for more browser support.
+# Fixed changes in parameters for "Moderator List" and "PMS Distribtution List" settings for better security/accuracy.
+# Fixed multiple code bugs.
+
+
