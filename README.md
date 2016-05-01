@@ -2,7 +2,9 @@
 
 The Top Rated 100 Joomla Extensions of 2013
 
-NEW!  Version 3.0.1 for Joomla 3.x! Version 2.5.2 is still available for Joomla 1.5x-2.5x.  The PrayerCenter Component provides users of a website with the capability to share their prayer concerns with others. Prayer concerns can be posted to the website, sent to members of the the prayer chain, and sent to the Spiritual director or pastor. Users can subscribe to be members of the prayer chain via online form .
+NEW!  Version 3.0.2 for Joomla 3.x! 
+
+The PrayerCenter Component provides users of a website with the capability to share their prayer concerns with others. Prayer concerns can be posted to the website, sent to members of the the prayer chain, and sent to the Spiritual director or pastor. Users can subscribe to be members of the prayer chain via online form .
 
  
 
