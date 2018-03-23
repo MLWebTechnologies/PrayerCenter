@@ -15,6 +15,13 @@ $ -> Language fix or change
 - -> Removed
 ! -> Note
 
+3.0.3 Release [22-March-2018]
+-----------------------------
+
+^ New Release
+# Fixed multiple bugs
+* Fixed SQL Injection vulnerability (CVE-2018-7314)
+
 
 3.0.2 Release [8-March-2016]
 ----------------------------
