@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE updates><updates>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE updates>
+<updates>
    <update>
    <name>PrayerCenter</name>
    <description>PrayerCenter Component</description>
@@ -7,7 +9,7 @@
    <version>3.0.4</version>
    <infourl title="PrayerCenter URL">http://mlwebtechnologies.github.io/PrayerCenter/</infourl>
    <downloads>
-   <downloadurl type="full" format="zip">https://github.com/MLWebTechnologies/PrayerCenter/raw/master/Component/com_prayercenter304.zip</downloadurl>
+   <downloadurl type="full" format="zip">https://github.com/MLWebTechnologies/PrayerCenter/blob/master/Component/com_prayercenter304.zip</downloadurl>
    </downloads>
    <tags>
    <tag>stable</tag>
@@ -16,6 +18,7 @@
    <maintainerurl>http://mlwebtechnologies.github.io/PrayerCenter/</maintainerurl>
    <targetplatform name="joomla" version="3.0" />
    </update>
+   
    <update>
    <name>PrayerCenter</name>
    <description>PrayerCenter Component</description>
@@ -24,7 +27,7 @@
    <version>3.0.4</version>
    <infourl title="PrayerCenter URL">http://mlwebtechnologies.github.io/PrayerCenter/</infourl>
    <downloads>
-   <downloadurl type="full" format="zip">https://github.com/MLWebTechnologies/PrayerCenter/raw/master/Component/com_prayercenter304.zip</downloadurl>
+   <downloadurl type="full" format="zip">https://github.com/MLWebTechnologies/PrayerCenter/blob/master/Component/com_prayercenter304.zip</downloadurl>
    </downloads>
    <tags>
    <tag>stable</tag>
@@ -33,6 +36,7 @@
    <maintainerurl>http://mlwebtechnologies.github.io/PrayerCenter/</maintainerurl>
    <targetplatform name="joomla" version="3.1" />
    </update>
+   
    <update>
    <name>PrayerCenter</name>
    <description>PrayerCenter Component</description>
@@ -41,7 +45,7 @@
    <version>3.0.4</version>
    <infourl title="PrayerCenter URL">http://mlwebtechnologies.github.io/PrayerCenter/</infourl>
    <downloads>
-   <downloadurl type="full" format="zip">https://github.com/MLWebTechnologies/PrayerCenter/raw/master/Component/com_prayercenter304.zip</downloadurl>
+   <downloadurl type="full" format="zip">https://github.com/MLWebTechnologies/PrayerCenter/blob/master/Component/com_prayercenter304.zip</downloadurl>
    </downloads>
    <tags>
    <tag>stable</tag>
@@ -50,6 +54,7 @@
    <maintainerurl>http://mlwebtechnologies.github.io/PrayerCenter/</maintainerurl>
    <targetplatform name="joomla" version="3.2" />
    </update>
+   
    <update>
    <name>PrayerCenter</name>
    <description>PrayerCenter Component</description>
@@ -58,7 +63,7 @@
    <version>3.0.4</version>
    <infourl title="PrayerCenter URL">http://mlwebtechnologies.github.io/PrayerCenter/</infourl>
    <downloads>
-   <downloadurl type="full" format="zip">https://github.com/MLWebTechnologies/PrayerCenter/raw/master/Component/com_prayercenter304.zip</downloadurl>
+   <downloadurl type="full" format="zip">https://github.com/MLWebTechnologies/PrayerCenter/blob/master/Component/com_prayercenter304.zip</downloadurl>
    </downloads>
    <tags>
    <tag>stable</tag>
@@ -67,6 +72,7 @@
    <maintainerurl>http://mlwebtechnologies.github.io/PrayerCenter/</maintainerurl>
    <targetplatform name="joomla" version="3.3" />
    </update>
+   
    <update>
    <name>PrayerCenter</name>
    <description>PrayerCenter Component</description>
@@ -75,7 +81,7 @@
    <version>3.0.4</version>
    <infourl title="PrayerCenter URL">http://mlwebtechnologies.github.io/PrayerCenter/</infourl>
    <downloads>
-   <downloadurl type="full" format="zip">https://github.com/MLWebTechnologies/PrayerCenter/raw/master/Component/com_prayercenter304.zip</downloadurl>
+   <downloadurl type="full" format="zip">https://github.com/MLWebTechnologies/PrayerCenter/blob/master/Component/com_prayercenter304.zip</downloadurl>
    </downloads>
    <tags>
    <tag>stable</tag>
@@ -84,6 +90,7 @@
    <maintainerurl>http://mlwebtechnologies.github.io/PrayerCenter/</maintainerurl>
    <targetplatform name="joomla" version="3.4" />
    </update>
+   
    <update>
    <name>PrayerCenter</name>
    <description>PrayerCenter Component</description>
@@ -92,7 +99,7 @@
    <version>3.0.4</version>
    <infourl title="PrayerCenter URL">http://mlwebtechnologies.github.io/PrayerCenter/</infourl>
    <downloads>
-   <downloadurl type="full" format="zip">https://github.com/MLWebTechnologies/PrayerCenter/raw/master/Component/com_prayercenter304.zip</downloadurl>
+   <downloadurl type="full" format="zip">https://github.com/MLWebTechnologies/PrayerCenter/blob/master/Component/com_prayercenter304.zip</downloadurl>
    </downloads>
    <tags>
    <tag>stable</tag>
@@ -101,6 +108,7 @@
    <maintainerurl>http://mlwebtechnologies.github.io/PrayerCenter/</maintainerurl>
    <targetplatform name="joomla" version="3.5" />
    </update>
+   
    <update>
    <name>PrayerCenter</name>
    <description>PrayerCenter Component</description>
@@ -109,7 +117,7 @@
    <version>3.0.4/version>
    <infourl title="PrayerCenter URL">http://mlwebtechnologies.github.io/PrayerCenter/</infourl>
    <downloads>
-   <downloadurl type="full" format="zip">https://github.com/MLWebTechnologies/PrayerCenter/raw/master/Component/com_prayercenter304.zip</downloadurl>
+   <downloadurl type="full" format="zip">https://github.com/MLWebTechnologies/PrayerCenter/blob/master/Component/com_prayercenter304.zip</downloadurl>
    </downloads>
    <tags>
    <tag>stable</tag>
@@ -118,6 +126,7 @@
    <maintainerurl>http://mlwebtechnologies.github.io/PrayerCenter/</maintainerurl>
    <targetplatform name="joomla" version="3.6" />
    </update>
+   
    <update>
    <name>PrayerCenter</name>
    <description>PrayerCenter Component</description>
@@ -126,7 +135,7 @@
    <version>3.0.4</version>
    <infourl title="PrayerCenter URL">http://mlwebtechnologies.github.io/PrayerCenter/</infourl>
    <downloads>
-   <downloadurl type="full" format="zip">https://github.com/MLWebTechnologies/PrayerCenter/raw/master/Component/com_prayercenter304.zip</downloadurl>
+   <downloadurl type="full" format="zip">https://github.com/MLWebTechnologies/PrayerCenter/blob/master/Component/com_prayercenter304.zip</downloadurl>
    </downloads>
    <tags>
    <tag>stable</tag>
@@ -135,6 +144,7 @@
    <maintainerurl>http://mlwebtechnologies.github.io/PrayerCenter/</maintainerurl>
    <targetplatform name="joomla" version="3.7" />
    </update>
+   
    <update>
    <name>PrayerCenter</name>
    <description>PrayerCenter Component</description>
@@ -143,7 +153,7 @@
    <version>3.0.4</version>
    <infourl title="PrayerCenter URL">http://mlwebtechnologies.github.io/PrayerCenter/</infourl>
    <downloads>
-   <downloadurl type="full" format="zip">https://github.com/MLWebTechnologies/PrayerCenter/raw/master/Component/com_prayercenter304.zip</downloadurl>
+   <downloadurl type="full" format="zip">https://github.com/MLWebTechnologies/PrayerCenter/blob/master/Component/com_prayercenter304.zip</downloadurl>
    </downloads>
    <tags>
    <tag>stable</tag>
@@ -151,4 +161,5 @@
    <maintainer>MLWebTechnologies</maintainer>
    <maintainerurl>http://mlwebtechnologies.github.io/PrayerCenter/</maintainerurl>
    <targetplatform name="joomla" version="3.8" />
-   </update></updates>
+   </update>
+</updates>
