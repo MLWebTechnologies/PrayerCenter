@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE updates>
 <updates>
    <update>
    <name>PrayerCenter</name>
@@ -18,7 +17,6 @@
    <maintainerurl>http://mlwebtechnologies.github.io/PrayerCenter/</maintainerurl>
    <targetplatform name="joomla" version="3.0" />
    </update>
-   
    <update>
    <name>PrayerCenter</name>
    <description>PrayerCenter Component</description>
@@ -36,7 +34,6 @@
    <maintainerurl>http://mlwebtechnologies.github.io/PrayerCenter/</maintainerurl>
    <targetplatform name="joomla" version="3.1" />
    </update>
-   
    <update>
    <name>PrayerCenter</name>
    <description>PrayerCenter Component</description>
@@ -54,7 +51,6 @@
    <maintainerurl>http://mlwebtechnologies.github.io/PrayerCenter/</maintainerurl>
    <targetplatform name="joomla" version="3.2" />
    </update>
-   
    <update>
    <name>PrayerCenter</name>
    <description>PrayerCenter Component</description>
@@ -72,7 +68,6 @@
    <maintainerurl>http://mlwebtechnologies.github.io/PrayerCenter/</maintainerurl>
    <targetplatform name="joomla" version="3.3" />
    </update>
-   
    <update>
    <name>PrayerCenter</name>
    <description>PrayerCenter Component</description>
@@ -90,7 +85,6 @@
    <maintainerurl>http://mlwebtechnologies.github.io/PrayerCenter/</maintainerurl>
    <targetplatform name="joomla" version="3.4" />
    </update>
-   
    <update>
    <name>PrayerCenter</name>
    <description>PrayerCenter Component</description>
@@ -108,7 +102,6 @@
    <maintainerurl>http://mlwebtechnologies.github.io/PrayerCenter/</maintainerurl>
    <targetplatform name="joomla" version="3.5" />
    </update>
-   
    <update>
    <name>PrayerCenter</name>
    <description>PrayerCenter Component</description>
@@ -126,7 +119,6 @@
    <maintainerurl>http://mlwebtechnologies.github.io/PrayerCenter/</maintainerurl>
    <targetplatform name="joomla" version="3.6" />
    </update>
-   
    <update>
    <name>PrayerCenter</name>
    <description>PrayerCenter Component</description>
@@ -144,7 +136,6 @@
    <maintainerurl>http://mlwebtechnologies.github.io/PrayerCenter/</maintainerurl>
    <targetplatform name="joomla" version="3.7" />
    </update>
-   
    <update>
    <name>PrayerCenter</name>
    <description>PrayerCenter Component</description>
