@@ -15,10 +15,18 @@ $ -> Language fix or change
 - -> Removed
 ! -> Note
 
-3.0.3 Release [22-March-2018]
+3.0.4 Release [29-April-2018]
 -----------------------------
 
-^ New Release
+# Fixed multiple bugs in Control Panel
+# Fixed javascript issues with request submission
+# Fixed multiple changes in Admin pages
+# Fixed Install XML showing missing folder error
+# Fixed validation script in Subscribe module
+
+
+3.0.3 Release [22-March-2018]-----------------------------
+
 # Fixed multiple bugs
 * Fixed SQL Injection vulnerability (CVE-2018-7314)
 
@@ -26,7 +34,6 @@ $ -> Language fix or change
 3.0.2 Release [8-March-2016]
 ----------------------------
 
-^ New release
 # Fixed multiple bugs
 
 
@@ -39,6 +46,7 @@ $ -> Language fix or change
 3.0.0 Release [10-October-2013]
 -------------------------------
 
+^ New Release
 + Added Joomla 3.x compatibility.
 
 
