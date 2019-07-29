@@ -1,9 +1,8 @@
-
 # PrayerCenter Component 
 
 The Top Rated 100 Joomla Extensions of 2013
 
-DEVELOPER'S NOTE:  My appologies to everyone for my absence from this project.  The Lord has moved me into several different ministries of service.  I hopefully will be more able to spend time keeping this component active and useable.
+DEVELOPER'S NOTE:  My appologies to everyone for my absence from this project.  The Lord has moved me into several different ministries of service.  I hopefully will be more able to spend time keeping this component active and useable in the near future.
 
 
 NEW!  Version 3.0.5 for Joomla 3.x! PrayerCenter is now PHP 7.x compliant.
