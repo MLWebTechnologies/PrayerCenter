@@ -15,6 +15,18 @@ $ -> Language fix or change
 - -> Removed
 ! -> Note
 
+
+3.0.5 Release [28-July-2019]
+-----------------------------
+
+# Updated for PHP 7.x compliant
+# Fixed Installation script - category creations
+# Fixed Devotional feed reader script
+* Added further checks to prevent SQL injection vulnerabilities
+^ Updated several areas for Joomla 3.9.x interoperability
+^ Updated integration for JComments and Community Builder components
+
+
 3.0.4 Release [29-April-2018]
 -----------------------------
 
