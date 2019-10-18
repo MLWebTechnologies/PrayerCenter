@@ -169,4 +169,21 @@
    <maintainer>MLWebTechnologies</maintainer>
    <maintainerurl>http://mlwebtechnologies.github.io/PrayerCenter/</maintainerurl>
    <targetplatform name="joomla" version="3.9" />
+   </update>
+   <update>
+   <name>PrayerCenter</name>
+   <description>PrayerCenter Component</description>
+   <element>com_prayercenter</element>
+   <type>component</type>
+   <version>3.0.6</version>
+   <infourl title="PrayerCenter URL">http://mlwebtechnologies.github.io/PrayerCenter/</infourl>
+   <downloads>
+   <downloadurl type="full" format="zip">https://github.com/MLWebTechnologies/PrayerCenter/raw/master/Component/com_prayercenter306.zip</downloadurl>
+   </downloads>
+   <tags>
+   <tag>stable</tag>
+   </tags>
+   <maintainer>MLWebTechnologies</maintainer>
+   <maintainerurl>http://mlwebtechnologies.github.io/PrayerCenter/</maintainerurl>
+   <targetplatform name="joomla" version="3.10" />
    </update></updates>
