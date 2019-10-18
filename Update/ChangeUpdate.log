@@ -16,10 +16,20 @@ $ -> Language fix or change
 ! -> Note
 
 
+3.0.6 Release [18-October-2019]
+-----------------------------
+
+# Fixed RSS component
+# Fixed Feed creation
+* Added further checks to prevent SQL injection vulnerabilities in email approvals
+^ Rewrote PrayerCenter Email class and plugin
+^ Updated integration for JComments and Community Builder component compatibility
+
+
 3.0.5 Release [28-July-2019]
 -----------------------------
 
-# Updated for PHP 7.x compliant
+# Updated for PHP 7.x compliance
 # Fixed Installation script - category creations
 # Fixed Devotional feed reader script
 * Added further checks to prevent SQL injection vulnerabilities
